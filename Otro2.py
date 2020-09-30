@@ -1,0 +1,3 @@
+ 
+
+ Diccionario = {"Hola": "Como estas"}
